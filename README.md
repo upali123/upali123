@@ -8,10 +8,10 @@
 
 - 👋 Hi, I’m @UpaliKhanduri
 - 👀 I’m interested in ...Know New things
--🌱 I’m currently learning **everything 🤣**
-- 👨‍💻 All of my projects are available at[https://github.com/upali123](https://github.com/upali123)
+-🌱 I’m currently learning **everything**
+- 👨‍💻 All of my projects are available at [https://github.com/upali123](https://github.com/upali123)
 - 📫 How to reach me upalikhanduri1@gmail.com
-- - ⚡ Fun fact **I Like to Make fun on myself 😂**
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
